@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5beb992161e04217be0ce871cd9527a, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  BaseParent:
+    m_AssetGUID: e8162ed0b4d131e43911b4b3f9ec0871
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  BaseCamera:
+    m_AssetGUID: 3629b7249855c844dbc7d9a610207de3
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  MainMenu:
+    m_AssetGUID: 2a3d4860c5f006247a160977e3c251a1
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  Level:
+    m_AssetGUID: 4ecf80715a0afd94684390fcaf49e6db
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  Ball:
+    m_AssetGUID: 2d0f602b98721b6498300906d5699620
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  GameView:
+    m_AssetGUID: 95d2215cc1d99d141a11994267d9cf0d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  DestroyableBall:
+    m_AssetGUID: 033f206649a637c4bb92c3e81af9ddbb
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  UICamera:
+    m_AssetGUID: a624d7eae51b5564d99cde0039d33834
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  LoadingCurtain:
+    m_AssetGUID: dab9e5d13d82317438cc91ecd8b5d090
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  SfxAudioSource:
+    m_AssetGUID: b7e4abb64d0069246a22e133bf8df064
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  MusicAudioSource:
+    m_AssetGUID: 35f80802aaba1ad44a7f4c8cff5cd9d1
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

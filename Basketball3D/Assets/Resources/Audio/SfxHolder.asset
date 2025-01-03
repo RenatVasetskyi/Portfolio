@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 561fbaa2541720541af6eccd626c1954, type: 3}
+  m_Name: SfxHolder
+  m_EditorClassIdentifier: 
+  SoundEffects:
+  - _sfxType: 0
+    _clip: {fileID: 8300000, guid: f4bd5097e125da24292ef0dfaf09d1d0, type: 3}
+  - _sfxType: 1
+    _clip: {fileID: 8300000, guid: f1dc9f732b36bf1419bec3ff3cd3cddf, type: 3}
+  - _sfxType: 2
+    _clip: {fileID: 8300000, guid: 336290266e22bf64498361264e5acaed, type: 3}
+  - _sfxType: 3
+    _clip: {fileID: 8300000, guid: e435cfe354fb87b43b92aa6e7d07afc5, type: 3}
+  - _sfxType: 4
+    _clip: {fileID: 8300000, guid: ed2f833b34e300d41a75f30369436dda, type: 3}
+  - _sfxType: 5
+    _clip: {fileID: 8300000, guid: e920e7b75c7128d489525879f946e629, type: 3}

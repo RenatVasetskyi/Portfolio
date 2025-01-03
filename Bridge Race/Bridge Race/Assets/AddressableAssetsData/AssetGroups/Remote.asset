@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fd0822eccaf0e3e41a8e9efdd47ca721
+  m_SerializeEntries:
+  - m_GUID: ae483671a8a5b1a4fa2d7acdc69baa08
+    m_Address: GameView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76c897428d5d9684db88cfb8d5946b61
+    m_Address: GameWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 340b941ca82f09a4fa236facefcae918
+    m_Address: MainMenuWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63d34f67f5ea287458cec889cd2f99f7
+    m_Address: BaseCamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f1de5459c8de25248a30a4c795bd040b
+    m_Address: BaseParent
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 914c58434c1acda459012781a037f967
+    m_Address: Level1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43b51ff09dc396f439e8a480e02880e0
+    m_Address: GameUICamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6797887f4d63cbb4ca653a0f674df8ec
+    m_Address: GameCamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b6a037ecc374724380935d001c4ecd0
+    m_Address: Tutorial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01890441a4c3f5e4ea89822ce7834040
+    m_Address: MainMenuCamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e8e1924bb442334c9125455634bb567
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3047fc500d9dd4a6fb8bd750bdb6329f
+    m_Address: LoadingCurtain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d8c8b894569ec3469e2a81504910803
+    m_Address: BridgeTile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7c4b4491947f47ba9c6f8dc53e9cbf5
+    m_Address: VictoryWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af87971b7f7f2437ab31bbcd7a6c1828
+    m_Address: LoseWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 896430e351eca4f49935d7a76c7223eb
+    m_Address: EditNameWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d3c6718d4367405e9b26b14a88940a2
+    m_Address: SettingsWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 237c8e131920f431793ab8ba14b92cf0
+    m_Address: BaseCanvas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f15d4f4a40dcd4bb783e1f0b190f0355
+    m_Address: Bot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6bfd944763820b1428c335e329c3326f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8eab1c6dcd78d374c98563f103ea340c, type: 2}
+    - {fileID: 11400000, guid: a2487543c001d0342958113f07892510, type: 2}

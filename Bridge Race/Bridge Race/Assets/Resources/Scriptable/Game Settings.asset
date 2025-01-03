@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5beb992161e04217be0ce871cd9527a, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  Prefabs:
+    Levels:
+    - {fileID: 5830269870814203988, guid: 914c58434c1acda459012781a037f967, type: 3}
+    BaseCanvas:
+      m_AssetGUID: 237c8e131920f431793ab8ba14b92cf0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    GameView:
+      m_AssetGUID: ae483671a8a5b1a4fa2d7acdc69baa08
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    BaseParent:
+      m_AssetGUID: f1de5459c8de25248a30a4c795bd040b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Player:
+      m_AssetGUID: 1e8e1924bb442334c9125455634bb567
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    MainMenuCamera:
+      m_AssetGUID: 01890441a4c3f5e4ea89822ce7834040
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    UICamera:
+      m_AssetGUID: 43b51ff09dc396f439e8a480e02880e0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    GameCamera:
+      m_AssetGUID: 6797887f4d63cbb4ca653a0f674df8ec
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    LoadingCurtain:
+      m_AssetGUID: 3047fc500d9dd4a6fb8bd750bdb6329f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    BridgeTile:
+      m_AssetGUID: 0d8c8b894569ec3469e2a81504910803
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    VictoryWindow:
+      m_AssetGUID: c7c4b4491947f47ba9c6f8dc53e9cbf5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    LoseWindow:
+      m_AssetGUID: af87971b7f7f2437ab31bbcd7a6c1828
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    EditNameWindow:
+      m_AssetGUID: 896430e351eca4f49935d7a76c7223eb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    SettingsWindow:
+      m_AssetGUID: 7d3c6718d4367405e9b26b14a88940a2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    MainMenuWindow:
+      m_AssetGUID: 340b941ca82f09a4fa236facefcae918
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    Bot:
+      m_AssetGUID: f15d4f4a40dcd4bb783e1f0b190f0355
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  PlayerData:
+    Speed: 15
+    MaxTilesInHands: 15
+  DefaultUserPhoto: {fileID: 21300000, guid: d2c149dc33065402eaaea8b6a70a7361, type: 3}
+  BotData:
+    Speed: 10
+    MaxTilesInHands: 15
+    RotationSpeed: 10
+    StopThreshold: 0.1
