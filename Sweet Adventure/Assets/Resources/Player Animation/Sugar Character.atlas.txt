@@ -1,0 +1,28 @@
+Sugar Character.png
+size:1972,1536
+filter:Linear,Linear
+pma:true
+body
+bounds:2,563,1271,646
+hair
+bounds:1275,2,1167,695
+rotate:90
+l_leg
+bounds:2,1243,291,392
+rotate:90
+left leg_long
+bounds:817,1211,323,509
+rotate:90
+r_leg
+bounds:396,1232,302,419
+rotate:90
+right leg_long
+bounds:1328,1171,363,609
+rotate:90
+
+Sugar Character_2.png
+size:1559,1273
+filter:Linear,Linear
+pma:true
+head
+bounds:2,2,1555,1269

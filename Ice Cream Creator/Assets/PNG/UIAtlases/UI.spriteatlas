@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f52456fb6f022426b8491e30f344c939, type: 3}
+    - {fileID: 2800000, guid: e20ae71da5b524540943d46242df8331, type: 3}
+    - {fileID: 2800000, guid: 2638488ddcca946afa24d556916d3e3a, type: 3}
+    - {fileID: 2800000, guid: d680932dc2b5f4c189e908241d8989b2, type: 3}
+    - {fileID: 2800000, guid: 3795816ec11854c0ead4a6cb4037698c, type: 3}
+    - {fileID: 2800000, guid: 49313bcda4f1343a98a00a28f1ee1fe6, type: 3}
+    - {fileID: 2800000, guid: bf3d5767b5e574d3c8479565a65fe094, type: 3}
+    - {fileID: 2800000, guid: 92ecbec3fd3f84f8492ad555728806a5, type: 3}
+    - {fileID: 2800000, guid: 929dbb3a6369e4453b6a47e5f54421fb, type: 3}
+    - {fileID: 2800000, guid: 1ac28ed695c9d4d88bbe0e4f69dd02bb, type: 3}
+    - {fileID: 2800000, guid: 7291d20bab698423e8e74362832f5f24, type: 3}
+    - {fileID: 2800000, guid: 5fabca9990a224c8e81af327e0f16eda, type: 3}
+    - {fileID: 2800000, guid: d987bc405e49a4b1799a1d155fa1c4ba, type: 3}
+    - {fileID: 2800000, guid: e76f7b2d1883b4dc19059ca21c44041d, type: 3}
+    - {fileID: 2800000, guid: a68d1dcf9e2b34e96a820c7191c94e8c, type: 3}
+    - {fileID: 2800000, guid: c15a6edf510aa4c2ab327d2ff661df06, type: 3}
+    - {fileID: 2800000, guid: 7dd5398b13f684975bfb0bf6f7722bd8, type: 3}
+    - {fileID: 2800000, guid: 3b5e0d1ac2efe4f9aac2f25b9cc4000e, type: 3}
+    - {fileID: 2800000, guid: 568fab8a671004b84859f3f32300afd7, type: 3}
+    - {fileID: 2800000, guid: 2537510d8aea2425fa7bb7acaa490922, type: 3}
+    - {fileID: 2800000, guid: 1713fd3fe331c4eaa8eb67a26d44fa18, type: 3}
+    - {fileID: 2800000, guid: ea95a1d33ec054740aca528db4901e25, type: 3}
+    - {fileID: 2800000, guid: 90601f59cfa474e2e885e751a17c9a77, type: 3}
+    - {fileID: 2800000, guid: 9e3d042942d6243a38ece8b7f5fa93cd, type: 3}
+    - {fileID: 2800000, guid: 25d43d092d47e486a9645118ac0d8b99, type: 3}
+    - {fileID: 2800000, guid: b808d3a47f5214b62b1e83762d40d565, type: 3}
+    - {fileID: 2800000, guid: 89248833e47cf4d4db28e8c67b799d14, type: 3}
+    - {fileID: 2800000, guid: 71afeca7caa834ca69b3b4f1dbff833f, type: 3}
+    - {fileID: 2800000, guid: 3af80f0a8becc4349a008cd8e9027d84, type: 3}
+    - {fileID: 2800000, guid: aa786165bfe7143fcb785c2103e4dfd7, type: 3}
+    - {fileID: 2800000, guid: a73a283bce1c5427faee0130392ba34b, type: 3}
+    - {fileID: 2800000, guid: 764a003f351214e13bdd723b4e718203, type: 3}
+    - {fileID: 2800000, guid: 82d7b2283e6d342a6b4e56b493211833, type: 3}
+    - {fileID: 2800000, guid: 762f7310d3a8a41329a81df6e1d70369, type: 3}
+    - {fileID: 2800000, guid: b584c892a253342d28ae593542443414, type: 3}
+    - {fileID: 2800000, guid: b8a9a4f1e84aa4b83892a970a18e2cb4, type: 3}
+    - {fileID: 2800000, guid: d69bd1164828b4cdf8434d8186b88613, type: 3}
+    - {fileID: 2800000, guid: 855bfe56c36214163a665e2c3c3e2c33, type: 3}
+    - {fileID: 2800000, guid: 0a74d3804aa8347159bcb19ec37d57ab, type: 3}
+    - {fileID: 2800000, guid: 3ddd047608920445494c9457bf7ecd0f, type: 3}
+    - {fileID: 2800000, guid: 4b9a6d9ca673849c084dc871bab11d7c, type: 3}
+    - {fileID: 2800000, guid: 00e4aaf7d8ec3481bb29887c3155a7cd, type: 3}
+    - {fileID: 2800000, guid: d75457a5b6edf464987389fb4fba7138, type: 3}
+    - {fileID: 2800000, guid: 4f9add4f4ffde4a18bae356b5f1f99a8, type: 3}
+    - {fileID: 2800000, guid: 0cd1423d9c53b4be8822345862137046, type: 3}
+    - {fileID: 2800000, guid: 791c878f64c3048d6b53ca72d3de167e, type: 3}
+    - {fileID: 2800000, guid: afc3c1d8aa08645f5b4e03c7cbebfa57, type: 3}
+    - {fileID: 2800000, guid: ddbb5d010560444858a9134c13fd771d, type: 3}
+    - {fileID: 2800000, guid: 16b898c47adb44995b57b3a01197e977, type: 3}
+    - {fileID: 2800000, guid: 1cbb1740f92c245aa8670154e93480ec, type: 3}
+    - {fileID: 2800000, guid: f9632c2c611714a448a568fe33ee13b2, type: 3}
+    - {fileID: 2800000, guid: c104934d7e9f14e79b3d465fc5115ec5, type: 3}
+    - {fileID: 2800000, guid: 20b59a47902cb4b9194f2874bb534585, type: 3}
+    - {fileID: 2800000, guid: 78c1a6d215e464a4abe852b2585e8a60, type: 3}
+    - {fileID: 2800000, guid: bf7c41933f69849159c65f4604d76ea9, type: 3}
+    - {fileID: 2800000, guid: 0d35caa73f7014168b7ada4b7a2885e9, type: 3}
+    - {fileID: 2800000, guid: 618320fd2d050416899129bb7512d7c5, type: 3}
+    - {fileID: 2800000, guid: b629b3df1a3e44dd89988871af240f37, type: 3}
+    - {fileID: 2800000, guid: 4d3b170ba71954035b5e2460cce53c8c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 762f7310d3a8a41329a81df6e1d70369, type: 3}
+  - {fileID: 21300000, guid: 1cbb1740f92c245aa8670154e93480ec, type: 3}
+  - {fileID: 21300000, guid: d987bc405e49a4b1799a1d155fa1c4ba, type: 3}
+  - {fileID: 21300000, guid: 0a74d3804aa8347159bcb19ec37d57ab, type: 3}
+  - {fileID: 21300000, guid: ddbb5d010560444858a9134c13fd771d, type: 3}
+  - {fileID: 21300000, guid: b8a9a4f1e84aa4b83892a970a18e2cb4, type: 3}
+  - {fileID: 21300000, guid: b584c892a253342d28ae593542443414, type: 3}
+  - {fileID: 21300000, guid: 78c1a6d215e464a4abe852b2585e8a60, type: 3}
+  - {fileID: 21300000, guid: 89248833e47cf4d4db28e8c67b799d14, type: 3}
+  - {fileID: 21300000, guid: bf7c41933f69849159c65f4604d76ea9, type: 3}
+  - {fileID: 21300000, guid: 92ecbec3fd3f84f8492ad555728806a5, type: 3}
+  - {fileID: 21300000, guid: ea95a1d33ec054740aca528db4901e25, type: 3}
+  - {fileID: 21300000, guid: b808d3a47f5214b62b1e83762d40d565, type: 3}
+  - {fileID: 21300000, guid: 16b898c47adb44995b57b3a01197e977, type: 3}
+  - {fileID: 21300000, guid: aa786165bfe7143fcb785c2103e4dfd7, type: 3}
+  - {fileID: 21300000, guid: d75457a5b6edf464987389fb4fba7138, type: 3}
+  - {fileID: 21300000, guid: d69bd1164828b4cdf8434d8186b88613, type: 3}
+  - {fileID: 21300000, guid: 855bfe56c36214163a665e2c3c3e2c33, type: 3}
+  - {fileID: 21300000, guid: 3ddd047608920445494c9457bf7ecd0f, type: 3}
+  - {fileID: 21300000, guid: 1ac28ed695c9d4d88bbe0e4f69dd02bb, type: 3}
+  - {fileID: 21300000, guid: 20b59a47902cb4b9194f2874bb534585, type: 3}
+  - {fileID: 21300000, guid: bf3d5767b5e574d3c8479565a65fe094, type: 3}
+  - {fileID: 21300000, guid: 0d35caa73f7014168b7ada4b7a2885e9, type: 3}
+  - {fileID: 21300000, guid: 71afeca7caa834ca69b3b4f1dbff833f, type: 3}
+  - {fileID: 21300000, guid: 00e4aaf7d8ec3481bb29887c3155a7cd, type: 3}
+  - {fileID: 21300000, guid: 82d7b2283e6d342a6b4e56b493211833, type: 3}
+  - {fileID: 21300000, guid: afc3c1d8aa08645f5b4e03c7cbebfa57, type: 3}
+  - {fileID: 21300000, guid: 25d43d092d47e486a9645118ac0d8b99, type: 3}
+  - {fileID: 21300000, guid: 9e3d042942d6243a38ece8b7f5fa93cd, type: 3}
+  - {fileID: 21300000, guid: 90601f59cfa474e2e885e751a17c9a77, type: 3}
+  - {fileID: 21300000, guid: 5fabca9990a224c8e81af327e0f16eda, type: 3}
+  - {fileID: 21300000, guid: 3af80f0a8becc4349a008cd8e9027d84, type: 3}
+  - {fileID: 21300000, guid: 3b5e0d1ac2efe4f9aac2f25b9cc4000e, type: 3}
+  - {fileID: 21300000, guid: 929dbb3a6369e4453b6a47e5f54421fb, type: 3}
+  - {fileID: 21300000, guid: 568fab8a671004b84859f3f32300afd7, type: 3}
+  - {fileID: 21300000, guid: 7291d20bab698423e8e74362832f5f24, type: 3}
+  - {fileID: 21300000, guid: 4d3b170ba71954035b5e2460cce53c8c, type: 3}
+  - {fileID: 21300000, guid: a73a283bce1c5427faee0130392ba34b, type: 3}
+  - {fileID: 21300000, guid: 7dd5398b13f684975bfb0bf6f7722bd8, type: 3}
+  - {fileID: 21300000, guid: f52456fb6f022426b8491e30f344c939, type: 3}
+  - {fileID: 21300000, guid: f9632c2c611714a448a568fe33ee13b2, type: 3}
+  - {fileID: 21300000, guid: 4b9a6d9ca673849c084dc871bab11d7c, type: 3}
+  - {fileID: 21300000, guid: 2537510d8aea2425fa7bb7acaa490922, type: 3}
+  - {fileID: 21300000, guid: e20ae71da5b524540943d46242df8331, type: 3}
+  - {fileID: 21300000, guid: d680932dc2b5f4c189e908241d8989b2, type: 3}
+  - {fileID: 21300000, guid: e76f7b2d1883b4dc19059ca21c44041d, type: 3}
+  - {fileID: 21300000, guid: 0cd1423d9c53b4be8822345862137046, type: 3}
+  - {fileID: 21300000, guid: c104934d7e9f14e79b3d465fc5115ec5, type: 3}
+  - {fileID: 21300000, guid: 2638488ddcca946afa24d556916d3e3a, type: 3}
+  - {fileID: 21300000, guid: 49313bcda4f1343a98a00a28f1ee1fe6, type: 3}
+  - {fileID: 21300000, guid: 618320fd2d050416899129bb7512d7c5, type: 3}
+  - {fileID: 21300000, guid: 3795816ec11854c0ead4a6cb4037698c, type: 3}
+  - {fileID: 21300000, guid: 764a003f351214e13bdd723b4e718203, type: 3}
+  - {fileID: 21300000, guid: 1713fd3fe331c4eaa8eb67a26d44fa18, type: 3}
+  - {fileID: 21300000, guid: 4f9add4f4ffde4a18bae356b5f1f99a8, type: 3}
+  - {fileID: 21300000, guid: 791c878f64c3048d6b53ca72d3de167e, type: 3}
+  - {fileID: 21300000, guid: a68d1dcf9e2b34e96a820c7191c94e8c, type: 3}
+  - {fileID: 21300000, guid: b629b3df1a3e44dd89988871af240f37, type: 3}
+  - {fileID: 21300000, guid: c15a6edf510aa4c2ab327d2ff661df06, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - head-1
+  - navigation button (8)
+  - Property 1=ice cream 2
+  - menu button-1
+  - input (2)
+  - head
+  - head-2
+  - shop card-2
+  - Property 1=ice cream 3 - part 2
+  - shop card-3
+  - field (1)
+  - Property 1=ice cream 1 - part 1
+  - Property 1=ice cream 3 - part 1
+  - navigation button (7)
+  - body-1
+  - score label (1)
+  - Property 1=happy
+  - Property 1=upset
+  - menu button-2
+  - Property 1=cake 2
+  - shop card-1
+  - cell (3)
+  - shop card
+  - Property 1=ice cream 4 - part 1
+  - navigation button (6)
+  - dialog box
+  - input (1)
+  - Property 1=ice cream 2 - part 2
+  - Property 1=ice cream 2 - part 1
+  - Property 1=ice cream 1 - part 2
+  - Property 1=ice cream 1
+  - Property 1=ice cream 4 - part 2
+  - Property 1=cake 2 - part 1
+  - Property 1=cake 1
+  - Property 1=cake 2 - part 2
+  - Property 1=cake 3
+  - small button
+  - body-2
+  - Property 1=cake 1 - part 2
+  - 1
+  - toogle-1
+  - menu button
+  - Property 1=cake 3 - part 1
+  - 2
+  - 4
+  - Property 1=ice cream 3
+  - block (4)
+  - toogle
+  - 3
+  - 2
+  - small button-1
+  - Property 1=Default
+  - body
+  - Property 1=cake 3 - part 2
+  - block (3)
+  - button (44)
+  - Property 1=ice cream 4
+  - small button-2
+  - Property 1=cake 1 - part 1
+  m_RenderDataMap: {}
+  m_Tag: UI
+  m_IsVariant: 0

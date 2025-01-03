@@ -1,0 +1,395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5beb992161e04217be0ce871cd9527a, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  MusicHolder: {fileID: 11400000, guid: dcc28fe8cfed14c8f856cb04a8f7af80, type: 2}
+  BackgroundSkins:
+  - Type: 0
+    Skin: {fileID: 21300000, guid: 4a0bc0e0bae90449a8f179e60fd54dfe, type: 3}
+  - Type: 1
+    Skin: {fileID: 21300000, guid: c1e16f60a03594d83ac8c85e19d11e33, type: 3}
+  - Type: 2
+    Skin: {fileID: 21300000, guid: ec5dc81909c1a4041b4dabe7ea5b1288, type: 3}
+  - Type: 3
+    Skin: {fileID: 21300000, guid: 77f8d6a2b833a4f94a59cdbb5978c99c, type: 3}
+  Stories:
+  - Type: 0
+    StoryPieces:
+    - Type: 0
+      Text: Far in the mountains, among dense forests and deep lakes, is the small
+        village of Elmwood. The village is surrounded by magic, which local residents
+        only know about from legends and old tales.
+      Sprite: {fileID: 21300000, guid: d9b61ffaa6e8f4c499d4cc2dfe749bef, type: 3}
+    - Type: 1
+      Text: 'One day, a young guy named Alex finds an ancient coin while walking
+        in the forest. The coin was strange - it glowed even in the dark, and mysterious
+        symbols were engraved on it.  '
+      Sprite: {fileID: 21300000, guid: e0125219347154ccba81413a34fa87ef, type: 3}
+    - Type: 2
+      Text: 'Alex decided to show the coin to his grandfather, old fisherman George,
+        who knew many old stories. George, seeing the coin, turned pale and immediately
+        began to tell a story he had heard as a child:'
+      Sprite: {fileID: 21300000, guid: 2104036adf6db490e8765351f5c07a53, type: 3}
+    - Type: 3
+      Text: This coin is part of an ancient treasure left by the great magician Balthazar.
+        Balthazar was the most powerful wizard of his time, and before he died he
+        decided to scatter his treasure throughout the kingdom so that only the most
+        worthy could find it. Each coin leads to the next, and together they open
+        the way to great wealth and power.
+      Sprite: {fileID: 21300000, guid: 6e27af14882c24f1492e9f712e6c08a8, type: 3}
+    - Type: 4
+      Text: 'Fascinated by the story, Alex decided to look for the next coin. He
+        gathered his things and went on a journey. During his travels, he found new
+        friends who helped him in his search. '
+      Sprite: {fileID: 21300000, guid: ad0478737930145848314da51f499c31, type: 3}
+    - Type: 5
+      Text: 'In the old Crawford town library, Alex found a map with marked locations
+        where other coins might be hidden. Each place on the map was associated with
+        legends about Balthazar. '
+      Sprite: {fileID: 21300000, guid: f77df2184cd094b34b9688ee4cdac16f, type: 3}
+    - Type: 6
+      Text: 'One day, during a storm, Alex and his friends found themselves in an
+        old abandoned castle. Here, among the ruins and cobwebs, they found another
+        coin. '
+      Sprite: {fileID: 21300000, guid: 310541789481c4734895bf88cfa732cf, type: 3}
+    - Type: 7
+      Text: 'It was engraved with the image of a tower that was located in the mountains
+        to the north. Feeling that he was getting closer to the truth, Alex went
+        to that tower. '
+      Sprite: {fileID: 21300000, guid: 8b2ae88f4c6f4459bbc799c02e70692d, type: 3}
+    - Type: 8
+      Text: 'At the top of the mountain, amidst the clouds and wind, Alex found the
+        last coin. It shone brighter than all the others, and when he collected all
+        the coins together, a portal appeared before him. '
+      Sprite: {fileID: 21300000, guid: aa5667ee9548d4a1d89f08eaf5327d30, type: 3}
+    - Type: 9
+      Text: 'The portal led him to Balthazar''s hideout, where there were incredible
+        treasures and ancient spell books. '
+      Sprite: {fileID: 21300000, guid: 1bc8aeaf55c2240d3bb1b99571484b29, type: 3}
+    - Type: 10
+      Text: 'Alex realized that real treasure is not gold and jewels, but knowledge
+        and power that can be used to help others. He returned to his village, becoming
+        a wise wizard and using his new knowledge for good. '
+      Sprite: {fileID: 21300000, guid: dc0c06fa0807a455191a703a7cc24585, type: 3}
+    - Type: 11
+      Text: 'Elmwood grew from a small village to a thriving city, and all the residents
+        were grateful to Alex for his bravery and wisdom. '
+      Sprite: {fileID: 21300000, guid: 8ebd0a5d5eb03448ca46a2be148bbd16, type: 3}
+    CongratulationsText: 'Congratulations, great treasure hunter! You have collected
+      all of Balthazar''s magic coins and brought peace and prosperity back to the
+      kingdom of Elmswood. Your courage, wisdom and determination have brought light
+      to the dark corners of our world, revealing secrets that have remained hidden
+      for centuries. You have become a true legend that will be remembered by generations.
+      Thank you for the incredible journey with us and for being a part of this magical
+      story! '
+    VictoryWindowPrefab: {fileID: 5507080922601425608, guid: 6cd0e4d6ecc6d4586a7eab8e0a105ce7, type: 3}
+  - Type: 1
+    StoryPieces:
+    - Type: 0
+      Text: 'In ancient times, in the dense forests beyond the mountains, there was
+        the kingdom of Elandor. The kingdom was known for its wise rulers and rich
+        culture. But one day everything changed: a powerful artifact capable of controlling
+        time was lost, and the kingdom fell into oblivion.'
+      Sprite: {fileID: 21300000, guid: eb440e0e7dc1f4d4fb28811c561075f7, type: 3}
+    - Type: 1
+      Text: Legend has it that the artifact split into five pieces, each of which
+        disappeared in different parts of the world.
+      Sprite: {fileID: 21300000, guid: ca790e5626d2f4972a9f2b61dfcc3eb4, type: 3}
+    - Type: 2
+      Text: A young girl named Elaina, a resident of a small village on the outskirts
+        of Elandor, finds an ancient compass in the ruins of an old temple. The compass
+        shows the way to one of the artifact fragments.
+      Sprite: {fileID: 21300000, guid: 59dbe8649f41c47e09998d9fe277e032, type: 3}
+    - Type: 3
+      Text: 'Elaina''s grandfather, a former scientist of the kingdom, tells her
+        that this compass was created in order to find all the pieces of the artifact
+        and restore Elandor. '
+      Sprite: {fileID: 21300000, guid: 2ec37ca6b146c421ebc6a764ee610941, type: 3}
+    - Type: 4
+      Text: 'Elaina decides to go on a journey to find all the pieces of the artifact
+        and restore her kingdom. Her first stop is the mysterious Grimm Caves. '
+      Sprite: {fileID: 21300000, guid: 9d4881186b0c54b83b55c9b9b49fdd74, type: 3}
+    - Type: 5
+      Text: 'Deep in the caves, among the stalactites and underground rivers, she
+        finds the first piece of the artifact, guarded by the spirit of the old king,
+        who gives her a clue to the next place. '
+      Sprite: {fileID: 21300000, guid: d25ab2eaaf4144d5ea514dde7186c98c, type: 3}
+    - Type: 6
+      Text: With the first part of the artifact and new clues, Elaina travels to
+        the forgotten city of Lunaris, hidden among the high mountains. Here she
+        meets an old magician who helps her solve riddles and find the second fragment
+        of an artifact in an ancient observatory.
+      Sprite: {fileID: 21300000, guid: 392b501f2d2b6489e887813a4642721e, type: 3}
+    - Type: 7
+      Text: The next fragment takes Elaina to the enchanted forest of Sylva. The
+        forest is inhabited by magical creatures and hides many secrets. Elaina must
+        find an ancient tree that holds the third artifact piece. The tree is guarded
+        by forest spirits who will test its wisdom and kindness.
+      Sprite: {fileID: 21300000, guid: 830a4295d1b12426e877155608ad9aff, type: 3}
+    - Type: 8
+      Text: 'With the third fragment in hand, Elaina learns of the underwater kingdom
+        of Atria, which hides the fourth piece of the artifact. She goes to the shores
+        of the great ocean, where she meets a mermaid who helps her dive into the
+        depths and find part of an artifact in the ruins of an old palace underwater. '
+      Sprite: {fileID: 21300000, guid: 4b1d3217787b444a0bc97dc9d4bafbd2, type: 3}
+    - Type: 9
+      Text: 'The last fragment is in the Ksar desert, among dunes and forgotten temples.
+        Elaina must find the Temple of the Sun, where the final piece of the artifact
+        is hidden. She faces her final challenges and receives help from desert travelers. '
+      Sprite: {fileID: 21300000, guid: cb96a207f1caf4a94a532f8df6e70559, type: 3}
+    - Type: 10
+      Text: 'Having collected all five pieces of the artifact, Elaina returns to
+        her village, where together with her grandfather, they combine the pieces
+        and restore the artifact. '
+      Sprite: {fileID: 21300000, guid: 48d4f5632781b4ee584e216ff0562ae4, type: 3}
+    - Type: 11
+      Text: 'This leads to the return of Elandor''s forgotten glory. The kingdom
+        flourishes again, and Elaina becomes a legend who restored balance and peace
+        to her world. '
+      Sprite: {fileID: 21300000, guid: 3f63c74c3db52428a9f5219c934414ce, type: 3}
+    CongratulationsText: 'Congratulations, brave researcher! Your journey ended in
+      triumph, and you recovered a magical artifact that brought light and life back
+      to the forgotten kingdom of Elandor. Your path has been full of challenges
+      and mysteries, but your wisdom and determination have paved the way through
+      the darkness. Thanks to your heroic efforts, Elandor will once again shine
+      in all its glory, and its glory will live on through the ages. You have become
+      a legend and your name will be remembered with great respect. Thank you for
+      creating a new era of light and hope in this magical world! '
+    VictoryWindowPrefab: {fileID: 5507080922601425608, guid: 944736cff78e840fb85cf585decef509, type: 3}
+  - Type: 2
+    StoryPieces:
+    - Type: 0
+      Text: In the depths of the forgotten forests lies the city of Luminaris, once
+        prosperous, but now abandoned and shrouded in mystical mists. The city was
+        destroyed as a result of an ancient ritual that did not go according to plan.
+      Sprite: {fileID: 21300000, guid: 908544932c6a34bdc978a3cda693b1d7, type: 3}
+    - Type: 1
+      Text: 'Legends tell of powerful spirits that once guarded this place, and of
+        an artifact that can restore light to Luminaris. '
+      Sprite: {fileID: 21300000, guid: b3855eb2a6e194f3587dfc46ca7eacc3, type: 3}
+    - Type: 2
+      Text: 'A young explorer named Ivy finds an ancient diary of her great-grandfather,
+        who was one of the last inhabitants of Luminaris. The diary contains entries
+        about the "Mirror of Reflections" - an artifact that can restore the city.
+        But to activate the artifact, you need to find four soul crystals scattered
+        in various mystical places. '
+      Sprite: {fileID: 21300000, guid: a5d8492c552df43b385dd020a557c46d, type: 3}
+    - Type: 3
+      Text: The first clue leads Ivy to Moon Lake, where, according to legend, spirits
+        come out at night. Ivy must find the soul crystal hidden in an old temple
+        at the bottom of the lake. She encounters water spirits and solves their
+        riddles to obtain the first crystal.
+      Sprite: {fileID: 21300000, guid: 89435f02810a44985a9d158144892ed0, type: 3}
+    - Type: 4
+      Text: 'With the first crystal in hand, Ivy sets out for the Forgotten Monastery,
+        hidden in the mountains. Here, among the old ruins, she finds ancient monks
+        who have become guardians of the second soul crystal. '
+      Sprite: {fileID: 21300000, guid: 4a54c7b12909c4ab796d21da7e6898ec, type: 3}
+    - Type: 5
+      Text: 'The monks put Ivy through tests of endurance and spiritual purity to
+        test her readiness. '
+      Sprite: {fileID: 21300000, guid: 439e476daa8674d6f937263dde601f24, type: 3}
+    - Type: 6
+      Text: 'The next path leads Ivy to the Enchanted Forest, home to an ancient
+        guardian spirit. He hides the third crystal and tests Ivy on her wisdom and
+        ability to see the true nature of things. Ivy must solve a series of riddles
+        and pass through a magical maze. '
+      Sprite: {fileID: 21300000, guid: 65f138e0a1df04ab0b04d54d39e86fe9, type: 3}
+    - Type: 7
+      Text: 'The last crystal is in the Underworld, hidden deep underground. This
+        place is filled with ancient traps and mythical creatures. '
+      Sprite: {fileID: 21300000, guid: bc5ae1c1a14024210a7058ba469b54c1, type: 3}
+    - Type: 8
+      Text: 'Ivy meets the spirit of an ancient king who guards the crystal. She
+        must show her bravery and fortitude to get the last crystal. '
+      Sprite: {fileID: 21300000, guid: ecf380ade34494cd49094d3178e4ceda, type: 3}
+    - Type: 9
+      Text: 'After collecting all four crystals, Ivy returns to Luminaris and finds
+        the Mirror of Reflections in the heart of the city. '
+      Sprite: {fileID: 21300000, guid: 8daef33335e994bf79baecf28645ed57, type: 3}
+    - Type: 10
+      Text: She activates the artifact and the spirits of the city return to their
+        true forms, bringing light and life back to Luminaris.
+      Sprite: {fileID: 21300000, guid: 95321071e10e64106956cec11302501a, type: 3}
+    - Type: 11
+      Text: The city begins to recover, and Ivy becomes its protector and keeper
+        of ancient knowledge.
+      Sprite: {fileID: 21300000, guid: 25f0cb115e97b47a390871e55bedb8db, type: 3}
+    CongratulationsText: 'Congratulations, great researcher! Through your unwavering
+      courage and incredible wisdom, you have brought life and light back to the
+      ancient city of Luminaris. You''ve traversed mystical forests, unraveled the
+      mysteries of ancient ruins, and recovered an artifact lost in the ages. Now
+      Luminaris once again shines brightly as in ancient times, and its inhabitants
+      will remember your name as the name of a great hero. Thank you for bringing
+      magic and hope back into our world. You have become part of a legend that will
+      be passed down from generation to generation!  '
+    VictoryWindowPrefab: {fileID: 5507080922601425608, guid: 848154e2c7c61457687270e5298fe227, type: 3}
+  - Type: 3
+    StoryPieces:
+    - Type: 0
+      Text: 'In ancient times, in the dense forests beyond the mountains, there was
+        the kingdom of Elandor. The kingdom was known for its wise rulers and rich
+        culture. But one day everything changed: a powerful artifact capable of controlling
+        time was lost, and the kingdom fell into oblivion. '
+      Sprite: {fileID: 21300000, guid: 41382aeaec3f74122ac6e790f0ba08c5, type: 3}
+    - Type: 1
+      Text: Legend has it that the artifact split into five pieces, each of which
+        disappeared in different parts of the world.
+      Sprite: {fileID: 21300000, guid: d25ef6cabc51f4463a9db59ebcf23b86, type: 3}
+    - Type: 2
+      Text: A young girl named Elaina, a resident of a small village on the outskirts
+        of Elandor, finds an ancient compass in the ruins of an old temple. The compass
+        shows the way to one of the artifact fragments.
+      Sprite: {fileID: 21300000, guid: 0bd5c451e6c1c4adcb7aec7d4c439235, type: 3}
+    - Type: 3
+      Text: 'Elaina''s grandfather, a former scientist of the kingdom, tells her
+        that this compass was created in order to find all the pieces of the artifact
+        and restore Elandor. '
+      Sprite: {fileID: 21300000, guid: 2ee61a212093b47578d91445183a9aed, type: 3}
+    - Type: 4
+      Text: 'Elaina decides to go on a journey to find all the pieces of the artifact
+        and restore her kingdom. Her first stop is the mysterious Grimm Caves. '
+      Sprite: {fileID: 21300000, guid: 49582938d2e7e4a4e8e3fd5dfbc71b84, type: 3}
+    - Type: 5
+      Text: Deep in the caves, among the stalactites and underground rivers, she
+        finds the first piece of the artifact, guarded by the spirit of the old king,
+        who gives her a clue to the next place.
+      Sprite: {fileID: 21300000, guid: 3f89a7d54caf748278651d81e04ca22b, type: 3}
+    - Type: 6
+      Text: 'With the first part of the artifact and new clues, Elaina travels to
+        the forgotten city of Lunaris, hidden among the high mountains. Here she
+        meets an old magician who helps her solve riddles and find the second fragment
+        of an artifact in an ancient observatory. '
+      Sprite: {fileID: 21300000, guid: 8eba9f815ba54432f83ad46aac0cf091, type: 3}
+    - Type: 7
+      Text: The next fragment takes Elaina to the enchanted forest of Sylva. The
+        forest is inhabited by magical creatures and hides many secrets. Elaina must
+        find an ancient tree that holds the third artifact piece. The tree is guarded
+        by forest spirits who will test its wisdom and kindness.
+      Sprite: {fileID: 21300000, guid: 9db70b8b5aa86454d9c22801c75ad23a, type: 3}
+    - Type: 8
+      Text: 'With the third fragment in hand, Elaina learns of the underwater kingdom
+        of Atria, which hides the fourth piece of the artifact. She goes to the shores
+        of the great ocean, where she meets a mermaid who helps her dive into the
+        depths and find part of an artifact in the ruins of an old palace underwater. '
+      Sprite: {fileID: 21300000, guid: 72b30de8bbdd8476caef822d50fa8e91, type: 3}
+    - Type: 9
+      Text: 'The last fragment is in the Ksar desert, among dunes and forgotten temples.
+        Elaina must find the Temple of the Sun, where the final piece of the artifact
+        is hidden. She faces her final challenges and receives help from desert travelers. '
+      Sprite: {fileID: 21300000, guid: 9c1c46a037f20491fa0f6ed532a82028, type: 3}
+    - Type: 10
+      Text: 'Having collected all five pieces of the artifact, Elaina returns to
+        her village, where together with her grandfather, they combine the pieces
+        and restore the artifact. '
+      Sprite: {fileID: 21300000, guid: d25ef6cabc51f4463a9db59ebcf23b86, type: 3}
+    - Type: 11
+      Text: This leads to the return of Elandor's forgotten glory. The kingdom flourishes
+        again, and Elaina becomes a legend who restored balance and peace to her
+        world.
+      Sprite: {fileID: 21300000, guid: c745c3bd4abd4493d9581d003eeaa5e1, type: 3}
+    CongratulationsText: 'This is the moment of your triumph! Congratulations, brave
+      explorer, on the restoration of the kingdom of Elandor! Thanks to your indomitable
+      will and wisdom, you collected all the fragments of an ancient artifact and
+      returned the light to the forgotten kingdom. Your adventures, filled with challenges
+      and riddles, have become a legend that will be passed on by word of mouth.
+      Elandor will prosper again thanks to you, and your name will forever remain
+      in the hearts of its inhabitants. Thank you for your courage, determination
+      and commitment to usher in a new era of light and hope! '
+    VictoryWindowPrefab: {fileID: 5507080922601425608, guid: 854d83c4e651247de9b5774f643d3117, type: 3}
+  - Type: 4
+    StoryPieces:
+    - Type: 0
+      Text: 'In the future, where technology is intertwined with the highest achievements
+        of science, humanity has revealed the secrets of time travel. Dr. Eve Crawford,
+        a brilliant physicist, has created the Chronocard, a device that allows you
+        to travel through timelines. '
+      Sprite: {fileID: 21300000, guid: 4c9ecc1fa94d44873abb0417b4a2e4a6, type: 3}
+    - Type: 1
+      Text: 'However, during one of the experiments, disaster struck: the timelines
+        got mixed up, and now the past, present, and future exist together, creating
+        chaos.'
+      Sprite: {fileID: 21300000, guid: 29c56b2a2227648df99b0d829a1621ee, type: 3}
+    - Type: 2
+      Text: Eve wakes up in a city where dinosaurs roam the streets alongside medieval
+        knights and futuristic robots. She realizes that her invention caused the
+        "Time Paradox".
+      Sprite: {fileID: 21300000, guid: f76225c2e419e4bd6a54a1bc8a072505, type: 3}
+    - Type: 3
+      Text: 'Now her task is to fix this gap in time. She goes to the center of the
+        city, where she finds the remnants of her Chronomap and begins a journey
+        through time. '
+      Sprite: {fileID: 21300000, guid: 98044302fd69e4a1d90e6e743bd97f4e, type: 3}
+    - Type: 4
+      Text: 'Eve''s first stop is ancient Egypt. She must find a way to correct the
+        temporal anomaly that caused the appearance of ancient pharaohs in the modern
+        world. '
+      Sprite: {fileID: 21300000, guid: b7f2a594fdba44505a77337623af0f15, type: 3}
+    - Type: 5
+      Text: 'Eve works with a local sage who helps her understand the principles
+        of ancient magic needed to correct the time streams. '
+      Sprite: {fileID: 21300000, guid: 877b4ac3a7a29419191029fbe821a4b7, type: 3}
+    - Type: 6
+      Text: The next place where Eve ends up is medieval Europe, where she meets
+        the mighty knight Arthur. They join forces to fight the evil that seeps from
+        the future into the past, and find a way to stabilize time in this period.
+      Sprite: {fileID: 21300000, guid: e98eb42a7fbf0435eb3a6112e0d7ec21, type: 3}
+    - Type: 7
+      Text: 'The journey took Eva to the distant future, where technology goes hand
+        in hand with nature. She meets a scientist from the future who helps her
+        fix a time rift that threatens to destroy all human progress. '
+      Sprite: {fileID: 21300000, guid: 292e1f9e6336e42799e202b107a5c5ca, type: 3}
+    - Type: 8
+      Text: 'In the end, Eve returns to the moment of the disaster in her laboratory.
+        She must correct the mistake that led to the Time Paradox. '
+      Sprite: {fileID: 21300000, guid: 5489de99d8d2e433fb95e92d0b19923a, type: 3}
+    - Type: 9
+      Text: Using new knowledge and allies from different eras, Eve successfully
+        completes her mission.
+      Sprite: {fileID: 21300000, guid: 29c56b2a2227648df99b0d829a1621ee, type: 3}
+    - Type: 10
+      Text: 'Time returns to its proper place and the world returns to normal existence.
+        Eve becomes a legend, her deeds will be remembered in all times and eras. '
+      Sprite: {fileID: 21300000, guid: 990646d23cc2149d3859552498eae21a, type: 3}
+    - Type: 11
+      Text: 'She continues her research, knowing that she now has the power and wisdom
+        to protect time from any threat. '
+      Sprite: {fileID: 21300000, guid: d6c9a79d56250436089a0874936b5e39, type: 3}
+    CongratulationsText: 'Congratulations, brave Dr. Eva Crawford! You were able
+      to correct the time paradox and save our world from chaos. Your journey through
+      the ages, your incredible efforts and unwavering determination have brought
+      peace and stability to all timelines. You have become a legend whose name will
+      be remembered in all eras. Thank you for your heroic actions and for giving
+      our world a new era of harmony and hope! '
+    VictoryWindowPrefab: {fileID: 5507080922601425608, guid: fa81567cd853342adb0ca31851892920, type: 3}
+  ComposeTheSubjectQuestions:
+  - Text: What does a car consist of?
+    Answers: 030000000400000005000000
+  - Text: What common items are used to build buildings?
+    Answers: 010000000500000000000000
+  - Text: What is needed for a bonfire?
+    Answers: 080000000600000000000000
+  - Text: What can you make a barbecue?
+    Answers: 000000000500000006000000
+  - Text: What does a fireplace generally consist of?
+    Answers: 010000000500000006000000
+  - Text: Find the items that make up the photo frame.
+    Answers: 080000000000000007000000
+  - Text: Now try to guess what you can make a magnetic calendar out of.
+    Answers: 080000000500000002000000
+  CheckTriesCount: 3
+  HintsCount: 3
+  RightTexts:
+  - {fileID: 21300000, guid: f372f1ae04a64432aa59d559a88f8391, type: 3}
+  - {fileID: 21300000, guid: ff9312752c45949f7b937c69f50c8336, type: 3}
+  - {fileID: 21300000, guid: 8b8d4e6f091d24b94bd554b485c22b15, type: 3}
