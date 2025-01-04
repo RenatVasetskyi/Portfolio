@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b28b952544df44ba09f32f48d1748cb1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Solway
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1173fe305877f4b1dbdd9f7e48d409f5, type: 3}
+  - {fileID: 12800000, guid: 02363aced85af4e4c9cbfdae3820e8e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

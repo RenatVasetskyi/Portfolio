@@ -1,0 +1,1460 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 721e8fd6327fa40ed97994a0156a9780, type: 3}
+  m_Name: SlotWinCombinations
+  m_EditorClassIdentifier: 
+  Cells:
+    _serializedList:
+    - Key: 206839
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206862
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206885
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206908
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206840
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206863
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206886
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206909
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206841
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206864
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206887
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 206910
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207368
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207391
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207414
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207437
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207369
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207392
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207415
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207438
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207370
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207393
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207416
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207439
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207897
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207920
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207943
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207966
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207898
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207921
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207944
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207967
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207899
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207922
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207945
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 207968
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208426
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208449
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208472
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208495
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208427
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208450
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208473
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208496
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208428
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208451
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208474
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208497
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208955
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208978
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209001
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209024
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208956
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208979
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209002
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209025
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208957
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 208980
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209003
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209026
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209484
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209507
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209530
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209553
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209485
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209508
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209531
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209554
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209486
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209509
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209532
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 209555
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210013
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210036
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210059
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210082
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210014
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210037
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210060
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210083
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210015
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210038
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210061
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210084
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210542
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210565
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210588
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210611
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210543
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210566
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210589
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210612
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210544
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210567
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210590
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 210613
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211071
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211094
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211117
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211140
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211072
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211095
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211118
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211141
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211073
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211096
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211119
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211142
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211600
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211623
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211646
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211669
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211601
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211624
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211647
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211670
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211602
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211625
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211648
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 211671
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212129
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212152
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212175
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212198
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212130
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212153
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212176
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212199
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212131
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212154
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212177
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212200
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212658
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212681
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212704
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212727
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212659
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212682
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212705
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212728
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212660
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212683
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212706
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 212729
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213187
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213210
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213233
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213256
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213188
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213211
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213234
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213257
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213189
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213212
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213235
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213258
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213716
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213739
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213762
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213785
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213717
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213740
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213763
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213786
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213718
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213741
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213764
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 213787
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214245
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214268
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214291
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214314
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214246
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214269
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214292
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214315
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214247
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214270
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214293
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+    - Key: 214316
+      Value:
+        IsPressed: 0
+        Combination: 0
+        Position:
+          Column: 0
+          Row: 0
+          Combination: 0
+  Columns: 4
+  Rows: 3
+  CombinationsCount: 15
+  _fileName: SlotWinCombinations
